@@ -1,0 +1,10 @@
+public static int go( int 5 ){
+int ans = 0;
+for(int i = 0; i < x; i++)
+{
+  for( int j = 0; j < i; j++){
+  ans = ans + j;
+  }
+}
+return ans;
+}
